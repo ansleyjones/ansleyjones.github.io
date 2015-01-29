@@ -20,7 +20,6 @@
 $(document).ready(function(){
   $('.your-class').slick({
     dots: true,
-    arrows: false,
     draggable: false
   });
 
